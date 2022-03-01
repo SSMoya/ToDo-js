@@ -1,6 +1,6 @@
-# Webpack starter
+# App de lista de pendientes
 
-Proyecto de configuracion inicial para crear aplicaciones utilizando webpack.
+Proyecto de lista de pendientes mediante JavaScript.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
